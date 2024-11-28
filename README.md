@@ -1,7 +1,6 @@
 # E-commerce---Users-of-a-C2C-fashion-store
-Context
-There are a lot of unknowns when running an E-commerce store, even when you have analytics to guide your decisions. Users are an important factor in an e-commerce business. This is especially true in a C2C-oriented store, since they are both the suppliers (by uploading their products) AND the customers (by purchasing other user's articles).
-
+# Context
+There are a lot of unknowns when running an E-commerce store, even when you have analytics to guide your decisions. Users are an important factor in an e-commerce business. This is especially true in a C2C-oriented store, since they are both the suppliers (by uploading their products) AND the customers (by purchasing other user's articles).<br>
 There are a lot of unknowns when running an E-commerce store, even when you have analytics to guide your decisions. Users are an important factor in an e-commerce business. This is especially true in a C2C-oriented store, since they are both the suppliers (by uploading their products) AND the customers (by purchasing other user's articles).
 
 Introduction to the Project
