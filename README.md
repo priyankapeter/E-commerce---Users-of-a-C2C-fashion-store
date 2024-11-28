@@ -22,30 +22,30 @@ The primary objective of this project is to develop a predictive model that clas
 Explore user behaviour of a successful website to get benchmarks. Get actionable insights about online sales and clients<br>
 
 ## Describing user data from a C2C
-identifierHash: A unique identifier for each user (integer).<br>
-type: The type of account (e.g., "user").<br>
-country: The country associated with the user.<br>
-language: The language preference of the user.<br>
-socialNbFollowers: Number of followers the user has on social media.<br>
-socialNbFollows: Number of accounts the user follows on social media.<br>
-socialProductsLiked: Number of products the user liked on social media.<br>
-productsListed: Number of products the user has listed for sale.<br>
-productsSold: Number of products the user has sold.<br>
-productsPassRate: Percentage of sold products meeting certain criteria (float).<br>
-productsWished: Number of products the user has wished for.<br>
-productsBought: Number of products the user has purchased.<br>
-gender: Gender of the user (e.g., "male", "female").<br>
-civilityGenderId: Numeric ID corresponding to gender.<br>
-civilityTitle: Title indicating the user's civility (e.g., "mr", "mrs").<br>
-hasAnyApp: Boolean indicating if the user has any app (True/False).<br>
-hasAndroidApp: Boolean indicating if the user uses the Android app.<br>
-hasIosApp: Boolean indicating if the user uses the iOS app.<br>
-hasProfilePicture: Boolean indicating if the user has a profile picture.<br>
-daysSinceLastLogin: Days since the user last logged in.<br>
-seniority: Total days of the user's membership.<br>
-seniorityAsMonths: Seniority of the user in months (float).<br>
-seniorityAsYears: Seniority of the user in years (float).<br>
-countryCode: The ISO country code for the user's country.<br>
+*identifierHash*: A unique identifier for each user (integer).<br>
+*type*: The type of account (e.g., "user").<br>
+*country*: The country associated with the user.<br>
+*language*: The language preference of the user.<br>
+*socialNbFollowers*: Number of followers the user has on social media.<br>
+*socialNbFollows*: Number of accounts the user follows on social media.<br>
+*socialProductsLiked*: Number of products the user liked on social media.<br>
+*productsListed*: Number of products the user has listed for sale.<br>
+*productsSold*: Number of products the user has sold.<br>
+*productsPassRate*: Percentage of sold products meeting certain criteria (float).<br>
+*productsWished*: Number of products the user has wished for.<br>
+*productsBought*: Number of products the user has purchased.<br>
+*gender*: Gender of the user (e.g., "male", "female").<br>
+*civilityGenderId*: Numeric ID corresponding to gender.<br>
+*civilityTitle*: Title indicating the user's civility (e.g., "mr", "mrs").<br>
+*hasAnyApp*: Boolean indicating if the user has any app (True/False).<br>
+*hasAndroidApp*: Boolean indicating if the user uses the Android app.<br>
+*hasIosApp*: Boolean indicating if the user uses the iOS app.<br>
+*hasProfilePicture*: Boolean indicating if the user has a profile picture.<br>
+*daysSinceLastLogin*: Days since the user last logged in.<br>
+*seniority*: Total days of the user's membership.<br>
+*seniorityAsMonths*: Seniority of the user in months (float).<br>
+*seniorityAsYears*: Seniority of the user in years (float).<br>
+*countryCode*: The ISO country code for the user's country.<br>
 
 ## Data Story
 The dataset captures various aspects of user interaction with a C2C fashion e-commerce platform. It likely includes features such as the number of sessions, time spent on the platform, product views, wishlist activity, and demographic details (e.g., age, gender, location). These attributes provide valuable insights into user behavior and help characterize the typical C2C fashion store user.<br>
