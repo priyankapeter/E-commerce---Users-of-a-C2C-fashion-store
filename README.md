@@ -16,7 +16,7 @@ The primary objective of this project is to develop a predictive model that clas
 **Data Preprocessing**: Clean and prepare the data for modeling, addressing missing values, encoding categorical variables, and scaling features as needed.<br>
 **Feature Engineering**: Create new features or select the most relevant ones to enhance model accuracy and interpretability.<br>
 **Model Building**: Build and evaluate classification models to predict the probability of users making a purchase.<br>
-**Performance Evaluation**: Use key metrics to assess model performance and ensure reliable, actionable predictions.<br.
+**Performance Evaluation**: Use key metrics to assess model performance and ensure reliable, actionable predictions.<br>
 
 ## Description
 Explore user behaviour of a successful website to get benchmarks. Get actionable insights about online sales and clients<br>
